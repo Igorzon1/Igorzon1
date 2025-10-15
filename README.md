@@ -1,61 +1,91 @@
-# 👨‍💻 Igor Vinícius — Backend Developer | Python & Django Specialist
+# Igor Vinícius — Backend Developer | Python | Flask | Django | Spring Boot
 
-Olá! 👋 Sou um **Desenvolvedor Backend** apaixonado por **Python** e por criar aplicações web **escaláveis e performáticas**.  
-Tenho experiência com **Django**, **Flask** e **Django Rest Framework (DRF)**, além de sólidos conhecimentos em **bancos de dados relacionais e NoSQL**.  
-Gosto de resolver problemas complexos com código limpo, boas práticas e automação.
-
----
-
-## 🚀 Tech Stack & Skills
-
-### 🧠 Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![DRF](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### ⚙️ Tools & Others
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+Olá! Sou um **desenvolvedor backend** focado em **Python** e **boas práticas de arquitetura**, apaixonado por criar aplicações web escaláveis e resolver problemas complexos com soluções simples e eficientes.  
+Atualmente, estudo **Ciência da Computação** e busco oportunidades para crescer como desenvolvedor backend, aplicando padrões modernos e princípios de Clean Code em projetos reais.
 
 ---
 
-## 🌟 Featured Projects
+## 🚀 Tech Stack
 
-### [📦 Inventory & Finance Management System](https://github.com/seuperfil/projeto-estoque-financas)
-**Descrição:** Sistema web completo para controle de estoque, registro de vendas e análise financeira com gráficos interativos.  
-**Stack:** Django, PostgreSQL, Django Rest Framework, React.js  
-**Highlights:** Notificações automáticas para produtos com estoque baixo e exportação de relatórios.
+**💻 Languages:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+**🧩 Frameworks & Libraries:**  
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-ff1709?style=flat&logo=django&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+
+**🗄️ Databases:**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+**⚙️ Tools & Concepts:**  
+Docker · Git/GitHub · RESTful APIs · Celery · Redis · Pytest · Swagger Docs · MVC Pattern · JWT Authentication · ETL Pipelines
 
 ---
 
-### [🌐 Blog RESTful API](https://github.com/seuperfil/projeto-api-blogs)
-**Descrição:** API completa para gerenciamento de usuários, postagens e comentários.  
-**Stack:** Django Rest Framework, MySQL, JWT Authentication  
-**Highlights:** Permissões personalizadas e documentação interativa com Swagger.
+## 💼 Highlight Projects
+
+### 🧠 [ERP Lite Flask — Inventory, Orders & Clients Management (In Progress)](https://github.com/igorzon1/erp-lite-flask)
+
+**Descrição:**  
+Sistema web completo de gerenciamento de **estoque, pedidos e clientes**, desenvolvido em **Flask (Python)** no padrão **MVC**.  
+Criado como projeto colaborativo entre um estudante de **Ciência da Computação (backend)** e um **Engenheiro de Produção (lógica operacional e logística)**.
+
+**🧰 Stack Principal:**  
+Python 3.12+, Flask, SQLAlchemy, Alembic, JWT, Docker, Bootstrap 5, Redis, Pytest  
+
+**✨ Destaques:**  
+- Arquitetura limpa seguindo MVC com Blueprints modulares  
+- Autenticação com JWT + Flask-Login  
+- CRUDs desacoplados e reutilizáveis  
+- Integração de conceitos reais de logística (PEPS, ABC, endereçamento físico)  
+- Testes automatizados e documentação com Swagger  
+- Conteinerização com Docker Compose  
+
+**🔜 Próximos Passos:**  
+Integração com gateway de pagamentos, dashboards analíticos e fila assíncrona (Celery + RabbitMQ).  
 
 ---
 
-### [📊 Real-Time Analytics Dashboard](https://github.com/seuperfil/projeto-dashboard)
-**Descrição:** Dashboard para monitoramento de APIs em tempo real, exibindo métricas como tempo de resposta e requisições.  
-**Stack:** Django Channels, Redis, Chart.js  
-**Highlights:** Atualizações em tempo real e filtros dinâmicos.
+### 📚 [E-Library — Virtual Library System (Academic Project)](https://github.com/igorzon1/e-library)
+
+**Descrição:**  
+Sistema de biblioteca virtual **fullstack**, desenvolvido como projeto acadêmico, com **Spring Boot (backend)** e **Next.js (frontend)**.  
+Permite **empréstimos digitais**, **gestão de acervo**, **avaliação de livros** e **recomendações personalizadas**.
+
+**🧰 Stack Principal:**  
+Spring Boot, JPA/Hibernate, Lombok, H2 Database, Next.js, Tailwind CSS, Axios, JUnit  
+
+**✨ Destaques:**  
+- CRUD completo de livros e usuários  
+- Sistema de recomendação e avaliação  
+- Cálculo automático de prazos e multas  
+- Documentação da API com Swagger  
+- Arquitetura bem definida entre camadas (Controller, Service, Repository, DTO)  
+- Desenvolvimento em equipe com metodologia ágil  
 
 ---
 
 ## 🎯 Career Goals
 
-Atualmente, busco oportunidades para atuar como **Backend Developer**, contribuindo em projetos de **alta performance e escalabilidade**.  
-Tenho interesse em aprofundar meus conhecimentos em **FastAPI**, **Kubernetes** e **NoSQL Databases**, aplicando **Clean Architecture**, **SOLID principles** e **best practices** no dia a dia.
+Atualmente, estou me especializando em **FastAPI**, **Clean Architecture** e **boas práticas de escalabilidade backend**.  
+Busco uma oportunidade onde possa contribuir com código limpo, testes automatizados e APIs robustas — enquanto continuo aprendendo e evoluindo com a equipe.
+
+---
+
+---
+
+## 📊 GitHub Insights
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seuperfil&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seuperfil&show_icons=true&theme=tokyonight&hide_title=true)
 
 ---
 
