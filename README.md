@@ -80,12 +80,10 @@ Busco uma oportunidade onde possa contribuir com código limpo, testes automatiz
 
 ---
 
----
-
 ## 📊 GitHub Insights
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seuperfil&layout=compact&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seuperfil&show_icons=true&theme=tokyonight&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Igorzon1&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Igorzon1&show_icons=true&theme=tokyonight&hide_title=true)
 
 ---
 
